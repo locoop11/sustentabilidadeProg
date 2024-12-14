@@ -1,3 +1,6 @@
+from constantes import *
+
+
 def ler_config(S):
     """
     Lê o ficheiro de configuração e devolve um dicionário com os parâmetros.
